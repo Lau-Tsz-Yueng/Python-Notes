@@ -3,10 +3,10 @@ class solution:
 	def solve(self, s)
 		return xxx
 
-obj = solution()
-lines = sys.stdin.readlines()
-for line in lines:
-	print(obj.solve(lines.strip()))
+	obj = solution()
+	lines = sys.stdin.readlines()
+	for line in lines:
+		print(obj.solve(lines.strip()))
   
   
   
