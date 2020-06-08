@@ -2,6 +2,7 @@
 Used to record some useful techniques of Python
 
 Introduction:
+
 This file is being used for record some useful techniques in python programming, Hope this could inspired you as well!
 
 
