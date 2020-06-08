@@ -1,0 +1,20 @@
+import sys
+class solution:
+	def solve(self, s)
+		return xxx
+
+obj = solution()
+lines = sys.stdin.readlines()
+for line in lines:
+	print(obj.solve(lines.strip()))
+  
+  
+  
+  2. 
+n = int(input())
+for i in range(n):
+    try:
+        s = input().split()
+        print(int(s[0])+int(s[1]))
+    except:
+        break
