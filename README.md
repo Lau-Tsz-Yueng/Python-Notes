@@ -1,5 +1,10 @@
 # Python-tricks
 Used to record some useful techniques of Python
+
+Introduction:
+This file is being used for record some useful techniques in python programming, Hope this could inspired you as well!
+
+
 Preface:
 1. standard input and output
 2. standard input and output II
@@ -15,3 +20,6 @@ Preface:
 12. ASCII transformation
 13. More about For loop
 14. Hashing Algorithm II
+
+
+庚子年闰四月十七
